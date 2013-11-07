@@ -1,4 +1,3 @@
-
 /**
  * Created with IntelliJ IDEA.
  * User: antidata
@@ -6,6 +5,7 @@
  * Time: 12:16 AM
  * To change this template use File | Settings | File Templates.
  */
+ 
 import RcDefinitions._
 import java.awt._
 import scala.Range
