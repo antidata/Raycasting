@@ -1,4 +1,3 @@
-
 import scala.collection.mutable.ArrayBuffer
 
 /**
@@ -8,7 +7,6 @@ import scala.collection.mutable.ArrayBuffer
  * Time: 5:20 PM
  * To change this template use File | Settings | File Templates.
  */
-
 
 object RcDefinitions {
 
